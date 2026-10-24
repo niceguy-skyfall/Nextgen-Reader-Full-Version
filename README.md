@@ -243,4 +243,4 @@ This repository serves as the official landing page for Nextgen Reader. The soft
 This README.md is tailored specifically for Nextgen Reader, following all guidelines for GitHub compliance and conversion optimization. It emphasizes the latest version, directs users to the official download site, and incorporates all requested elements including realistic user reviews and specific features.
 
 ---
-**Last updated:** 2026-10-24 10:31:13 UTC
+**Last updated:** 2026-10-24 14:19:46 UTC
